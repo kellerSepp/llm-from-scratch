@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+#*.pyc
+#*.pyo
+#*.pyd
+#*.egg-info/
+#.dist/
+#.build/
+
+# Venvs
+.venv/
+#venv/
+#.env/
+
+# Tools/IDE
+#.vscode/
+#.idea/
+
+# Jupyter
+#.ipynb_checkpoints/
